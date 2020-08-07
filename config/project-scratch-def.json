@@ -1,0 +1,33 @@
+{
+  "orgName": "CI",
+  "edition": "Developer",
+  "features": [
+    "Communities",
+    "StateAndCountryPicklist"
+  ],
+  "settings": {
+    "accountIntelligenceSettings": {
+      "enableNewsStories" : true
+    },
+    "communitiesSettings": {
+      "enableNetworksEnabled" : true
+    },
+    "enhancedNotesSettings": {
+      "enableEnhancedNotes": true
+    },
+    "lightningExperienceSettings": {
+      "enableS1DesktopEnabled": true
+    },
+    "mobileSettings": {
+      "enableS1EncryptedStoragePref2": false
+    },
+    "nameSettings": {
+      "enableMiddleName": true
+    },
+    "securitySettings": {
+      "passwordPolicies": {
+          "enableSetPasswordInApi": true
+      }
+    }
+  }
+}
